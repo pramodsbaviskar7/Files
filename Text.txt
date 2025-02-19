@@ -1,0 +1,51 @@
+Dear Candidates,
+
+We are excited to invite you to participate in an assignment that involves building a Gen AI-based solution to extract standalone and consolidated financial statements from PDF documents and convert them into structured JSON format.
+
+Objective: Create a solution to extract standalone and consolidated financial statements from the provided PDF in JSON format using only freely available resources.
+
+Instructions:
+
+PDF Files: We have attached PDF files containing standalone and consolidated financial statements, along with sample input and output JSON files for your reference.
+
+Solution Requirements:
+
+Extract standalone and consolidated financial statements accurately.
+
+Convert the extracted data into structured JSON format.
+
+Use only freely available tools, libraries, models, APIs, or methods.
+
+Provide proper code to ensure that test cases can be performed seamlessly.
+
+Submission Requirements:
+
+Mandatory: Provide the entire code base, including an inference file to perform test cases.
+
+You can submit via:
+
+Entire code base with an inference file.
+
+Git link (GitHub or any other platform).
+
+Streamlit app link (Code base submission is still required).
+
+Include JSON output samples for both standalone and consolidated financial statements.
+
+Provide documentation explaining the tools used, steps to run the solution, and challenges faced.
+
+Additional Notes:
+
+The code should be generalized to accommodate most cases.
+
+Attached PDF files and JSON responses are provided for reference to help you understand the data that needs to be extracted.
+
+We look forward to your submissions and appreciate your efforts in tackling this task.
+
+
+Note:
+
+Since we will be performing test cases on your solution, please ensure that your code is generalized to handle most scenarios and variations in financial statement formats.
+Some pdf may only contain  standalone of consolidated
+Submission date :-  25 / 02/ 2025
+please follow current mail thread for submission or any kind of queries
